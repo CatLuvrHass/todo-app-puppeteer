@@ -1,0 +1,56 @@
+ 
+TESTING VIEW PORTS
+ 
+ 
+setting view port to full page...
+saved to 'images/fullpage.png
+ 
+Takes a screenshot of the page...
+ 
+Testing responsiveness...
+saved to 'images/halfpage.png
+ 
+emulate other devices...
+saved to 'images/<deviceName>.png
+ 
+ 
+TESTING TEXT CONTENT OF MAIN ELEMENTS...
+ 
+get the text content title...
+' Welcome, ProtexAI. '
+ 
+get the text content of all the `.h3` elements...
+[ 'WHAT IS BUGGING YA?', 'TODO LIST' ]
+ 
+get the text content of all the `.h4` elements...
+[ "What's your bug?", 'Describe the bug', 'Pick a priority' ]
+ 
+TESTING BASIC FUNCTIONALITY OF TO DO APP...
+ 
+Taking screenshot before action...
+find in image_actions/01_initial_image.png
+ 
+typing bug Title...
+bug1
+ 
+Clicking Add bug todo...
+ 
+Taking ScreenShotAfter...
+find in image_actions/02_Add_button_fail.png
+ 
+todo list length before 0
+todo list length after 0
+Taking screenshot before action...
+refer to images_actions/03_initial_correcting_action.png
+ 
+typing bug description...
+ 
+Bug Title:  bug1
+Bug Description: this is buggy
+ 
+todo list length before 0
+todo list length after 1
+ 
+ 
+Taking ScreenShotAfter
+Find in image_actions/04_final_image_correct_action.png
