@@ -1,4 +1,7 @@
 # bug-report-app
+
+[Video Demo](https://drive.google.com/file/d/1H0dRjKGIa0ubCdiHEbXJNXGVPjXa4bTG/view?usp=sharing) 
+
 Thank you for the interesting challenge.
 
 I built some tests for the basic functionality of the application. The output is already in the test folder with images and an todo-test.txt file logging the operations
