@@ -1,7 +1,7 @@
 # bug-report-app
 Thank you for the interesting challenge.
 
-I built some tests for the basic functionality of the application.
+I built some tests for the basic functionality of the application. The output is already in the test folder with images and an todo-test.txt file logging the operations
 
 Limited in functionality, I worked to dispaly the different aspects I learnt of puppeteer docs that felt relevant to the application. 
 Of course more can always be done and I am interested to find out more how to put together these tests for larger applications and how I could improve my current attempt.
